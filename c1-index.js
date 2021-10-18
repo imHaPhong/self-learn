@@ -1,1 +1,1 @@
-c1 cap nhat
+c1 brach cap nhat
