@@ -1,1 +1,1 @@
-c1 brach cap nhat
+c2 cap nhat lai
