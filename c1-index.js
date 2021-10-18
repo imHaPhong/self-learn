@@ -9,3 +9,4 @@ c2 update new
 c2 cap nhat lai
 c1 vua rebase
 c1 vua rebase la
+C1 then 2
